@@ -1,1 +1,3 @@
 # Denoising-Music
+
+The goal of this project is to analyze the spectrograms of a portion of music, Handel’s Messiah. Using a Gabor Transform, I will explore how changes in window width of the Gabor transform and translations of the Gabor window will affect the spectrogram. These investigations will use a Gaussian filter and will compared with the spectrograms of a Ricker wavelet filter. Finally, the actual musical components of the piece will be analyzed. Focusing on the frequencies attainable by singing human vocal chords and comparing it to the actual piece of music, different musical notes can be identified. 
